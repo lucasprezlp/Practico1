@@ -3,7 +3,7 @@
 
 using namespace std;
 /* Ejercicio 4: Haga un programa que tenga como entrada una cantidad de dinero en pesos argentinos, y su salida
-será el monto convertido a dólares. Tome la cotización actual de dólar blue, redondear a 2 cifras.lucas*/
+será el monto convertido a dólares. Tome la cotización actual de dólar blue, redondear a 2 cifras.*/
 
 int main(){
 
