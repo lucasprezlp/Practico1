@@ -15,7 +15,7 @@ int main()
             // "c" es el que va acumulado las sumas.
     cout << "Ingrese el número hasta donde quiere que se realice la serie" << endl;
     cin >> n;
-    for (int i=0; i<=n; i++){
+    for (int i=1; i<=n; i++){
          cout << a << " ";
         c= a + b;
         a= b;
