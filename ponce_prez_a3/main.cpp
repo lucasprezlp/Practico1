@@ -5,8 +5,7 @@ using namespace std;
 //Ejercicio 3.1: Realice un programa que lea de la entrada estándar los siguientes datos de una persona: Edad: dato
 //de tipo entero. Sexo: dato de tipo carácter. Altura en metros: dato de tipo real. Tras leer los datos, el programa
 //debe mostrarlos en la salida estándar.
-//3.2 Ejecute el programa del ejercicio anterior con entradas erróneas y observe los resultados. Por ejemplo,
-//introduzca un dato de tipo carácter cuando se espera un dato de tipo entero.
+
 
 int main()
 {
@@ -26,3 +25,15 @@ int main()
 
     return 0;
 }
+
+//3.2 Ejecute el programa del ejercicio anterior con entradas erróneas y observe los resultados. Por ejemplo,
+//introduzca un dato de tipo carácter cuando se espera un dato de tipo entero.
+//
+//Ingrese su edad:
+//h
+//Ingrase su sexo (M/F):
+//Ingrese su altura en metros :
+//La edad del usuario es 0, su sexo es  y su altura es 4.11507e-317
+//
+//Process returned 0 (0x0)   execution time : 3.053 s
+//Press any key to continue.
